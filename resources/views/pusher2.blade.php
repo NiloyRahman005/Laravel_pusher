@@ -98,7 +98,7 @@
     </script>
 </head>
 <body>
-    <h1>Pusher Test with Table</h1>
+    <h1>Pusher Test with Table 2</h1>
     <p>
         Try publishing an event to channel <code>notification</code>
         with event name <code>test.notification</code>.
